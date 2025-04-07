@@ -1,7 +1,28 @@
 # OREST
 
-Welcome to the official repository for Orest, a note-taking/language learning companion designed to help you through your journey of learning Chinese.
+## Intro
 
-Orest offers a fully functional and accurate English-Chinese dictionary, as well as a note taking section that allows users to record new words or
+Welcome to the official repository for Orest, a note-taking/language learning companion designed to help 
+you through your journey of learning Chinese.
+
+Orest offers a fully functional and accurate English-Chinese dictionary, as well as a note taking section 
+that allows users to record new words or
 phrases they encounter when learning Chinese.
 
+## Note Taking
+
+Orest allows users to note take with a variety of different writing tools alongside them. This makes for 
+quick and easy note-taking whilst reading through Chinese 
+text you may be studying.
+5 basic tools are offered for note-taking as of currently:
+- Bolding
+- Italicizing
+- Underlining
+- Strikethrough
+- 10 Colors of highlighter
+
+## Dictionary
+
+As well as notes, for the words you jot down a dictionary is provided to look up those unknown words. Basic
+implementation of pinyin look up (using the numbering system of tones or no tones), English to Chinese, and Chinese
+to English look up are all supported.
