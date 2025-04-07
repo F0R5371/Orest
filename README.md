@@ -21,6 +21,10 @@ text you may be studying.
 - Strikethrough
 - 10 Colors of highlighter
 
+The file menu allows you to save, create and open .txt note files.
+Edit allows for preference options.
+Tools is how you access the 5 basic tools, or by using shortcuts listed in the .env file.
+
 *Note that writing tool changes do not export to .txt files.*
 
 ![Screenshot of note taking screen with full text annotated.](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Notes/NoteTaking.png)
