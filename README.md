@@ -21,8 +21,34 @@ text you may be studying.
 - Strikethrough
 - 10 Colors of highlighter
 
+*Note that writing tool changes do not export to .txt files.*
+
+![Screenshot of note taking screen with full text annotated.](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Notes/NoteTaking.png)
+
 ## Dictionary
 
 As well as notes, for the words you jot down a dictionary is provided to look up those unknown words. Basic
 implementation of pinyin look up (using the numbering system of tones or no tones), English to Chinese, and Chinese
 to English look up are all supported.
+
+![Screenshot of Chinese character lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/ChineseLookUp.png)
+
+![Screenshot of pinyin lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/PinyinLookUp.png)
+
+![Screenshot of English word lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/EnglishLookUp.png)
+
+## Themes
+
+Orest offers only two themes at the moment, light and dark. Each of which can be configured via the options screen.
+
+Dark theme:
+![Screenshot of dark theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkTheme.png)
+![Screenshot of dark theme notes menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkNotes.png)
+![Screenshot of dark theme dictionary menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkDictionary.png)
+
+Light theme:
+![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightTheme.png)
+![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightNotes.png)
+![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightDictionary.png)
+
+
