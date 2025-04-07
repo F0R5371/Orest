@@ -42,13 +42,20 @@ to English look up are all supported.
 Orest offers only two themes at the moment, light and dark. Each of which can be configured via the options screen.
 
 Dark theme:
+
 ![Screenshot of dark theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkTheme.png)
+
 ![Screenshot of dark theme notes menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkNotes.png)
+
 ![Screenshot of dark theme dictionary menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Dark/DarkDictionary.png)
 
+
 Light theme:
+
 ![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightTheme.png)
+
 ![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightNotes.png)
+
 ![Screenshot of light theme options menu](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Themes/Light/LightDictionary.png)
 
 
