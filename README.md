@@ -31,6 +31,10 @@ As well as notes, for the words you jot down a dictionary is provided to look up
 implementation of pinyin look up (using the numbering system of tones or no tones), English to Chinese, and Chinese
 to English look up are all supported.
 
+|                                                                                                                               |                                                                                                                   |                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Screenshot of Chinese character lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/ChineseLookUp.png) | ![Screenshot of pinyin lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/PinyinLookUp.png) | ![Screenshot of English word lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/EnglishLookUp.png) |
+
 ![Screenshot of Chinese character lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/ChineseLookUp.png)
 
 ![Screenshot of pinyin lookup](https://github.com/F0R5371/Orest/blob/main/Preview%20Images/Dict/PinyinLookUp.png)
